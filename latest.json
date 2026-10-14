@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "changelog": "Back to the classic icon, and our Telegram community is now live in Settings - Join Community. Plus the black-screen fix and stability improvements.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25009.apk"
+  "version": "1.0.2",
+  "changelog": "Fixed: update popup now appears in real time, and the update download no longer crashes (missing install permission). Update checks now run every 10 minutes and whenever you reopen the app.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25010.apk"
 }
