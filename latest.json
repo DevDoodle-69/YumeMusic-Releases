@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "changelog": "Fix: Google sign-in now completes - pick your account and you are in.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25018.apk"
+  "version": "1.0.11",
+  "changelog": "Your Google account now shows across the app - Home greeting, settings popup and account pages all reflect your sign-in.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25019.apk"
 }
