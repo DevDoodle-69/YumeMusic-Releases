@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "changelog": "Fix: the sign-in button in the settings popup could crash the app - fixed. Google sign-in now opens as expected.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25017.apk"
+  "version": "1.0.10",
+  "changelog": "Fix: Google sign-in now completes - pick your account and you are in.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25018.apk"
 }
