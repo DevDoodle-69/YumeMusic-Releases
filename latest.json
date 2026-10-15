@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "changelog": "Little update: song artwork now fills its frame everywhere — no more empty bars in History, Library and Search.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25012.apk"
+  "version": "1.0.5",
+  "changelog": "Update announcements rebuilt: the popup now shows on every app open until you update, a card on Home shows the waiting update with a 3-day countdown, and after 3 days playback pauses until you update. Plus artwork fills its frame everywhere.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25013.apk"
 }
