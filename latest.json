@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "changelog": "New: direct Google sign-in - tap Sign in with Google and pick your account from the list. No password typing, no browser pages.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25016.apk"
+  "version": "1.0.9",
+  "changelog": "Fix: the sign-in button in the settings popup could crash the app - fixed. Google sign-in now opens as expected.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25017.apk"
 }
