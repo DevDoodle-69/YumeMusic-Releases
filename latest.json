@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "changelog": "New: Glass intensity in Settings > Appearance — Subtle, Classic or Max. New: Share YumeMusic in Settings. The update popup now shows the download size. Fixed: Google sign-in flicker.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25011.apk"
+  "version": "1.0.4",
+  "changelog": "Little update: song artwork now fills its frame everywhere — no more empty bars in History, Library and Search.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25012.apk"
 }
