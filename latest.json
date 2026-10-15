@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "changelog": "New: direct Google sign-in - connect your account on Google's official page, locked and verified in-app. Your password only ever goes to Google; YumeMusic never sees it.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25015.apk"
+  "version": "1.0.8",
+  "changelog": "New: direct Google sign-in - tap Sign in with Google and pick your account from the list. No password typing, no browser pages.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25016.apk"
 }
