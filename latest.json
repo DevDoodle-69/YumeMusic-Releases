@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "changelog": "New: Appearance presets — name, save and share your look (theme, glass, layout) with friends; restore theirs in one tap. Your account never leaves your phone. Share YumeMusic now points to nzr.is-a.dev/yume-music. Update announcements rebuilt: popup on every app open, a Home card with a 3-day countdown, playback pauses after 3 days until you update.",
-  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25014.apk"
+  "version": "1.0.7",
+  "changelog": "New: direct Google sign-in - connect your account on Google's official page, locked and verified in-app. Your password only ever goes to Google; YumeMusic never sees it.",
+  "url": "https://raw.githubusercontent.com/DevDoodle-69/YumeMusic-Releases/main/YumeMusic-25015.apk"
 }
